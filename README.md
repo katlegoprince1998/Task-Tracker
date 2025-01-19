@@ -1,6 +1,4 @@
-﻿# Task-Tracker  
-
- # Challange from: # [Task Tracker CLI Project](https://roadmap.sh/projects/task-tracker)
+ # [Task Tracker CLI Project](https://roadmap.sh/projects/task-tracker)
 
 # Requirements
 
